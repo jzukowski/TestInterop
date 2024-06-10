@@ -1,0 +1,14 @@
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/bin/Debug/net8.0/testInterop1
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/bin/Debug/net8.0/testInterop1.deps.json
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/bin/Debug/net8.0/testInterop1.runtimeconfig.json
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/bin/Debug/net8.0/testInterop1.dll
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/bin/Debug/net8.0/testInterop1.pdb
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/testInterop1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/testInterop1.AssemblyInfoInputs.cache
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/testInterop1.AssemblyInfo.cs
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/testInterop1.csproj.CoreCompileInputs.cache
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/testInterop1.dll
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/refint/testInterop1.dll
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/testInterop1.pdb
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/testInterop1.genruntimeconfig.cache
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/ref/testInterop1.dll
