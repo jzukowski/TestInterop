@@ -12,3 +12,4 @@
 /Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/testInterop1.pdb
 /Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/testInterop1.genruntimeconfig.cache
 /Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/ref/testInterop1.dll
+/Users/Jan.Zukowski/Projects/NET/testInterop/testInterop1/obj/Debug/net8.0/testInterop1.sourcelink.json
